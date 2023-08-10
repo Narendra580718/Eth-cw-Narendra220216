@@ -1,0 +1,10 @@
+*{
+    background-color: aqua;
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center;
+}
+
+#signup button:hover
+{
+    background-color: aliceblue;
+}
